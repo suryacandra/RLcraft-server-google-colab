@@ -1,1 +1,1 @@
-# RLcraft-server-google-colab
+# RLcraft Server on Google Colab
